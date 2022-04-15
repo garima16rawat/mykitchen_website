@@ -1,0 +1,1 @@
+web:gunicorn mykitchen-website.wsgi --log-file-pip freeze > requirements.txt
